@@ -1,1 +1,1 @@
-Sitemap: https://oscwii.org/sitemap.xml
+Sitemap: https://RiinoMa.github.io/Site/sitemap.xml
